@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Black Sofa",
+        "price": 2500.99,
+        "image": { "fields": { "file": { "url": "img/img1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Creamy Armchair",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "img/img2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Unique Lamp",
+        "price": 540.99,
+        "image": { "fields": { "file": { "url": "img/img3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Chandelier",
+        "price": 2440.99,
+        "image": { "fields": { "file": { "url": "img/img12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fridge",
+        "price": 750.99,
+        "image": { "fields": { "file": { "url": "img/img5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Hanging Bed",
+        "price": 1200.99,
+        "image": { "fields": { "file": { "url": "img/img6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Wooden Oval Mirror",
+        "price": 105.99,
+        "image": { "fields": { "file": { "url": "img/img10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Coffe Table",
+        "price": 85.99,
+        "image": { "fields": { "file": { "url": "img/img7.jpg" } } }
+      }
+    }
+  ]
+}
